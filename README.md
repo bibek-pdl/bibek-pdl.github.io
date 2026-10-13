@@ -1,5 +1,5 @@
 # Bibek Paudel
-### IT Support Specialist | CompTIA Network+ Certified
+### IT Support Professional | Electronics, Communication and Information Engineer
 
 📍 High Point, North Carolina, USA  
 📧 [Email](mailto:bibekpaudel5000@gmail.com) | 💻 [GitHub](https://github.com/bibek-pdl)
@@ -19,6 +19,16 @@ systems, and providing end-user technical support.
 Passionate about **networking, cloud computing, system administration,
 and IT infrastructure**, with a strong commitment to continuous
 learning and delivering reliable technology solutions.
+
+---
+
+## 🎓 Education
+
+### Bachelor's in Electronics, Communication & Information Engineering
+
+**Institute of Engineering, Tribhuvan University, Nepal**
+
+*December 2019 – August 2025*
 
 ---
 
@@ -43,13 +53,7 @@ learning and delivering reliable technology solutions.
 
 **CompTIA Network+ Certified**
 
-Demonstrated knowledge of:
-
-- Network Infrastructure & Implementation
-- Network Operations & Troubleshooting
-- TCP/IP, Routing, Switching & Subnetting
-- Network Security Fundamentals
-- Wireless Networking & Network Services
+ID : COMP001023141183
 
 ---
 
@@ -96,7 +100,6 @@ Disk Partitioning, System Configuration
 - Configured user accounts, drivers, security, and network settings.
 - Troubleshot installation errors and connectivity issues.
 
-📁 [View Project Details](./projects/windows-11-homelab.md)
 
 ---
 
@@ -114,7 +117,6 @@ Ethernet Cabling, IP CCTV, NVR
 - Set up LAN connectivity, IP addressing, and network printers.
 - Installed IP CCTV cameras and configured NVR systems.
 
-📁 [View Project Details](./projects/office-it-cctv.md)
 
 ---
 
@@ -131,18 +133,6 @@ Software Installation, Hardware Troubleshooting
 - Deployed Windows 11 across computer lab workstations.
 - Installed educational software and configured user accounts.
 - Tested network connectivity and workstation functionality.
-
-📁 [View Project Details](./projects/school-it-lab.md)
-
----
-
-## 🎓 Education
-
-### Bachelor's in Electronics, Communication & Information Engineering
-
-**Institute of Engineering, Tribhuvan University, Nepal**
-
-*December 2019 – August 2025*
 
 ---
 
