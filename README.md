@@ -1,55 +1,179 @@
-# Data Scientist
+# Bibek Paudel
+### IT Support Specialist | CompTIA Network+ Certified
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+📍 High Point, North Carolina, USA  
+📧 [Email](mailto:bibekpaudel5000@gmail.com) | 💻 [GitHub](https://github.com/bibek-pdl)
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+---
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+## 👨‍💻 About Me
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+IT Support professional with a Bachelor's degree in Electronics,
+Communication and Information Engineering and CompTIA Network+
+certification.
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+Experienced in troubleshooting hardware, software, and network
+issues, supporting Microsoft 365 environments, managing Windows
+systems, and providing end-user technical support.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Passionate about **networking, cloud computing, system administration,
+and IT infrastructure**, with a strong commitment to continuous
+learning and delivering reliable technology solutions.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+---
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+## 🛠️ Technical Skills
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+| Category | Technologies & Skills |
+|----------|----------------------|
+| **Operating Systems** | Windows 10/11, Windows Server 2019/2022, macOS, ChromeOS |
+| **Networking** | TCP/IP, DNS, DHCP, VPN, VLANs, Subnetting, Routing, Switching, NAT |
+| **Microsoft 365** | Outlook, Teams, Exchange Online, SharePoint, OneDrive |
+| **Cloud & Identity** | Microsoft Azure, Entra ID, MFA, RBAC, Entra Connect |
+| **System Administration** | Active Directory, Group Policy, User Management, Permissions |
+| **Endpoint Management** | Microsoft Intune, Windows Deployment, Device Configuration |
+| **IT Support** | ServiceNow, Freshdesk, Jira, Hardware & Software Troubleshooting |
+| **Remote Support** | RDP, AnyDesk, TeamViewer, Quick Assist, Zoom |
 
-![Bike Study](/assets/img/bike_study.jpeg)
+---
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+## 🏆 Certifications
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+### CompTIA Network+ (N10-009)
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+**CompTIA Network+ Certified**
 
-- [Data Science Blog](https://medium.com/@shawhin)
+Demonstrated knowledge of:
+
+- Network Infrastructure & Implementation
+- Network Operations & Troubleshooting
+- TCP/IP, Routing, Switching & Subnetting
+- Network Security Fundamentals
+- Wireless Networking & Network Services
+
+---
+
+## 💼 Professional Experience
+
+### IT Support Officer
+**ET Recruitment | Hurstville, NSW**  
+*September 2025 – Present*
+
+- Provide technical support for Windows/macOS systems,
+  printers, mobile devices, and network connectivity.
+- Manage Active Directory and Microsoft Entra ID accounts,
+  MFA, access permissions, and user provisioning.
+- Support Microsoft 365, Intune, Windows deployment,
+  and endpoint management.
+- Resolve and document technical incidents using
+  ServiceNow and remote troubleshooting tools.
+
+### IT Support Representative
+**Sochcraaft Pvt. Ltd. | Pokhara, Nepal**  
+*August 2023 – June 2025*
+
+- Provided hardware, software, and network troubleshooting support.
+- Installed and maintained Windows workstations, printers,
+  and office networking equipment.
+- Supported Microsoft 365 applications, user accounts,
+  and routine system maintenance.
+
+---
+
+## 🚀 Featured Projects
+
+### 🖥️ Windows 11 Deployment & Imaging
+**Home Lab Project**
+
+Practiced Windows 11 installation, deployment, system
+configuration, and troubleshooting in a home lab environment.
+
+**Technologies:** Windows 11, OS Imaging, Bootable USB,
+Disk Partitioning, System Configuration
+
+**Highlights:**
+- Performed Windows 11 clean installations and system imaging.
+- Configured user accounts, drivers, security, and network settings.
+- Troubleshot installation errors and connectivity issues.
+
+📁 [View Project Details](./projects/windows-11-homelab.md)
+
+---
+
+### 🌐 Office IT Infrastructure & CCTV Installation
+**Sochcraaft Pvt. Ltd.**
+
+Assisted with office IT infrastructure deployment,
+network configuration, and CCTV surveillance installation.
+
+**Technologies:** LAN, TCP/IP, Routers, Switches,
+Ethernet Cabling, IP CCTV, NVR
+
+**Highlights:**
+- Installed and configured office computers and networking devices.
+- Set up LAN connectivity, IP addressing, and network printers.
+- Installed IP CCTV cameras and configured NVR systems.
+
+📁 [View Project Details](./projects/office-it-cctv.md)
+
+---
+
+### 🏫 Community School IT Lab Deployment
+**Pokhara Metropolitan City, Ward No. 26, Nepal**
+
+Participated in deploying and configuring Windows 11
+workstations for community school computer laboratories.
+
+**Technologies:** Windows 11, OS Imaging, LAN,
+Software Installation, Hardware Troubleshooting
+
+**Highlights:**
+- Deployed Windows 11 across computer lab workstations.
+- Installed educational software and configured user accounts.
+- Tested network connectivity and workstation functionality.
+
+📁 [View Project Details](./projects/school-it-lab.md)
+
+---
+
+## 🎓 Education
+
+### Bachelor's in Electronics, Communication & Information Engineering
+
+**Institute of Engineering, Tribhuvan University, Nepal**
+
+*December 2019 – August 2025*
+
+---
+
+## 🎯 Areas of Interest
+
+- IT Support & Desktop Administration
+- Network Engineering & Administration
+- Microsoft 365 & Endpoint Management
+- Cloud Computing & Microsoft Azure
+- System Administration
+- IT Infrastructure & Security
+
+---
+
+## 📄 Resume
+
+Interested in learning more about my professional background?
+
+📥 **[Download My Resume (PDF)](./assets/Bibek_Paudel_Resume.pdf)**
+
+---
+
+## 📬 Get in Touch
+
+I'm interested in opportunities in **IT Support, Desktop Support,
+Networking, and System Administration**.
+
+📧 **Email:** [bibekpaudel5000@gmail.com](mailto:bibekpaudel5000@gmail.com)
+
+💻 **GitHub:** [github.com/bibek-pdl](https://github.com/bibek-pdl)
+
+---
+
+*Thank you for visiting my portfolio!*
