@@ -26,7 +26,7 @@ learning and delivering reliable technology solutions.
 
 ### Bachelor's in Electronics, Communication & Information Engineering
 
-**Institute of Engineering, Tribhuvan University, Nepal**
+**[Institute of Engineering, Tribhuvan University – Paschimanchal Campus](https://ioepas.edu.np/)**
 
 *December 2019 – August 2025*
 
