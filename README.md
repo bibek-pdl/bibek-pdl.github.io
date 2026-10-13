@@ -1,5 +1,6 @@
 # Bibek Paudel
-### IT Support Professional | Electronics, Communication and Information Engineer
+### IT Support Professional
+Electronics, Communication and Information Engineer
 
 📍 High Point, North Carolina, USA  
 📧 [Email](mailto:bibekpaudel5000@gmail.com) | 💻 [GitHub](https://github.com/bibek-pdl)
