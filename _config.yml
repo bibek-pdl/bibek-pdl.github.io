@@ -1,5 +1,8 @@
 title: Bibek Paudel
+description: IT Support | CompTIA Network+ Certified
 logo: /assets/img/headshot.png
-#description: text below image
-#show_downloads: true
+
 theme: jekyll-theme-minimal
+
+url: "https://bibek-pdl.github.io"
+baseurl: ""
