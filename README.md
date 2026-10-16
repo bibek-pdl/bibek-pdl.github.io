@@ -48,13 +48,6 @@ Committed to delivering reliable IT solutions, optimizing system performance, an
 
 **Status:** In Progress
 
-**Focus Areas:**
-- Microsoft Intune and endpoint management
-- Windows deployment and device configuration
-- Microsoft Entra ID and identity management
-- Device compliance and security policies
-- Application deployment and management
-
 ---
 
 ## 💼 Professional Experience
